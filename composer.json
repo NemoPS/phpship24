@@ -12,12 +12,12 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "FpNemo\\": "src/FpNemo/"
+            "FpNemo\\Ship24\\": "src/FpNemo/Ship24"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FpNemo\\": "src/FpNemo/"
+            "FpNemo\\Ship24\\": "src/FpNemo/Ship24"
         }
     }      
 }
