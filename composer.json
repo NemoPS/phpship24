@@ -1,0 +1,13 @@
+{
+    "name": "fpnemo/ship24",
+    "description": "PHP Library for the Ship24 Tracking Service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabio Porta",
+            "email": "nemo@nemops.com"
+        }
+    ],
+    "require": {}
+}
