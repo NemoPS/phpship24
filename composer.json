@@ -9,5 +9,15 @@
             "email": "nemo@nemops.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FpNemo\\": "src/FpNemo/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FpNemo\\": "src/FpNemo/"
+        }
+    }      
 }
